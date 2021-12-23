@@ -53,4 +53,4 @@
 
 ---
 
-<img align="left" alt="siddhantkhariwal GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=siddhantkhariwal&show_icons=true&hide_border=true" />
+<img align="left" alt="siddhantkhariwal GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=siddhantkhariwal&hide=stars&theme=blueberry&show_icons=true&hide_border=true" />
