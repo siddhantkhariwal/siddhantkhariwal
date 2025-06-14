@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any new ideas.**
 
-- 💬 Ask me about **Web development and dev-ops.**
+- 💬 Ask me about **Web development, dev-ops and data science.**
 
 - 📫 How to reach me **siddhantkhariwal2012@gmail.com**
 
