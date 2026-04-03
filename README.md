@@ -29,7 +29,7 @@ I've been a startup CTO, a freelance dev, a data scientist at a consulting firm,
 | Project | What it is | Link |
 |---------|-----------|------|
 | **Dharma Speaks** | Spiritual tech platform connecting pundits with users for guidance & Katha Vachans. Features real time video calling, booking system, and pandit discovery | [dharmaspeaks.com](https://dharmaspeaks.com/) |
-| **RevWay** | Built the website for an AI powered post-click personalization platform | [revway.io](https://www.revway.io/) |
+| **RevWay** | Built the website, data pipeline, and AI infrastructure for an AI-powered post-click personalization platform. Engineered a product enrichment pipeline with Claude Haiku + vision AI, vector embeddings via Pinecone for semantic search, and RAG-powered review Q&A. Also built the BigQuery + GA4 pipeline and Power BI dashboards. | [revway.io](https://www.revway.io/) |
 | **SecureRecruit** | Privacy first recruitment platform using zero knowledge proofs & Anon Aadhaar SDK | [GitHub](https://github.com/siddhantkhariwal/secure-recruit) |
 | **EHR SoulBound Token** | Blockchain based electronic health records system | [GitHub](https://github.com/siddhantkhariwal/EHR-SoulBound-Token) |
 | **Hindu Aarti** | Aartis, chalisa, stotram & mantras content site | [hinduaarti.com](https://hinduaarti.com) |
